@@ -9,3 +9,6 @@ An Apache 2.4 configured to microsoft Windows.
  6. Adiciona o apache como serviço digitado o comando httpd -k install. O windows pedirá permissão para utilizar o serviço. Permita em todas as redes.
  7. No browser escreve http://localhost:80, o resultado deve ser It Works!
  8. Caso necessite parar ou reiniciar o serviço, vá aos serviços do windows (digite services na barra de busca) e selecione o serviço Apache2.4. 
+
+
+alisoncf@gmail.com
